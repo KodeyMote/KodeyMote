@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kodey, an <a href="https://linkedin.com/in/www.linkedin.com/in/kodey-mote">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kodey, an <a href="https://linkedin.com/in/www.linkedin.com/in/kodey-mote">IT Professional, Information Security Analyst</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
